@@ -1,2 +1,0 @@
-# Tensorflow_Models
-Practice
